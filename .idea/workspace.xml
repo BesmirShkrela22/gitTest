@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7fc7bdc-cf79-4614-ac10-4c902668781b" name="Changes" comment="first commit develop5 from dev3" />
+    <list default="true" id="a7fc7bdc-cf79-4614-ac10-4c902668781b" name="Changes" comment="first commit from bora">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop5" />
+        <entry key="$PROJECT_DIR$" value="develop-bora" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,7 +119,35 @@
       <option name="project" value="LOCAL" />
       <updated>1698169619924</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first commit from besi">
+      <created>1698170370699</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698170370699</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first commit from master">
+      <created>1698170886735</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698170886735</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit from ajna">
+      <created>1698171002025</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698171002025</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first commit from bora">
+      <created>1698171051532</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698171051532</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +182,10 @@
     <MESSAGE value="ndryshim te develop 2, 22" />
     <MESSAGE value="first commit develop5" />
     <MESSAGE value="first commit develop5 from dev3" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit develop5 from dev3" />
+    <MESSAGE value="first commit from besi" />
+    <MESSAGE value="first commit from master" />
+    <MESSAGE value="first commit from ajna" />
+    <MESSAGE value="first commit from bora" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit from bora" />
   </component>
 </project>
