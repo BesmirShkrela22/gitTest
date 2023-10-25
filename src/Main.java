@@ -3,9 +3,9 @@ public class Main {
         System.out.println("AJNA");
         System.out.println("BORA1");
         System.out.println("AAAAA");
-
-
-
-
+        System.out.println("BESI");
+        System.out.println("BESI");
+        System.out.println("BESI");
+        System.out.println("BESI");
     }
 }
