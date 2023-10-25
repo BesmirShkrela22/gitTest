@@ -7,5 +7,15 @@ public class Main {
         System.out.println("BESI");
         System.out.println("BESI");
         System.out.println("BESI");
+        System.out.println("BORA");
+        System.out.println("BORA");
+        System.out.println("BORA");
+        System.out.println("BORA");
+        System.out.println("BORA");
+
+
+
+
+
     }
 }
