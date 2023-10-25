@@ -4,8 +4,5 @@ public class Main {
         System.out.println("BESI");
         System.out.println("BESI");
         System.out.println("BESI");
-
-
-
     }
 }
